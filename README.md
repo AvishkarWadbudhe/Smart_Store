@@ -56,7 +56,7 @@ spring.datasource.password=your-password
 
 4.Open a web browser and go to http://localhost:8080 to access the Smart Store application.
 
-#Usage
+## Usage
 1.Visit the homepage to browse and search for products.
 2.Create an account or log in to access additional features such as adding products to your cart and placing orders.
 3.If you are an admin, log in to the admin panel to manage products, orders, and users.
