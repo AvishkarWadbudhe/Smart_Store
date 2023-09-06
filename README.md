@@ -52,6 +52,7 @@ spring.datasource.password=your-password
 ```shell
 ./mvnw clean install
 ./mvnw spring-boot:run
+```
 
 4.Open a web browser and go to http://localhost:8080 to access the Smart Store application.
 
