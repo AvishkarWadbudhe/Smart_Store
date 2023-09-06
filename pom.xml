@@ -96,16 +96,6 @@
 			<artifactId>spring-boot-configuration-processor</artifactId>
 			<optional>true</optional>
 		</dependency>
-		<dependency>
-			<groupId>com.paytm</groupId>
-			<artifactId>miniapp-sdk-client</artifactId>
-			<version>1.0.2-SNAPSHOT</version>
-		</dependency>
-		<dependency>
-			<groupId>com.paytm</groupId>
-			<artifactId>paytm-checksum</artifactId>
-			<version>1.2.0</version>
-		</dependency>
 	</dependencies>
 	<repositories>
 		<repository>
@@ -116,10 +106,6 @@
 			<id>snapshots</id>
 			<name>libs-snapshot</name>
 			<url>https://artifactorypg.paytm.in/artifactory/libs-snapshot</url>
-		</repository>
-		<repository>
-			<id>my-repo1</id>
-			<url> http://artifactorypg.paytm.in/artifactory/libs-release </url>
 		</repository>
 	</repositories>
 	<build>
