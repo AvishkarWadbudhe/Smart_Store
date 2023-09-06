@@ -23,7 +23,7 @@ This project is built using Java with the Spring framework, Hibernate for databa
 ## Technologies
 
 - Java
-- Spring Framework
+- Spring Boot Framework
 - Hibernate
 - Thymeleaf
 - Lombok
