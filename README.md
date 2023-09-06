@@ -47,7 +47,7 @@ To run this project locally, follow these steps:
 spring.datasource.url=jdbc:mysql://localhost:3306/smartstore
 spring.datasource.username=your-username
 spring.datasource.password=your-password
-
+```
 3.Build and run the application:
 ```shell
 ./mvnw clean install
