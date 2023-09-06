@@ -1,2 +1,8 @@
-package com.smartstore.Repository;public interface CategoryRepository {
+package com.smartstore.Repository;
+
+import com.smartstore.Model.Category;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface CategoryRepository extends JpaRepository<Category,Integer> {
+
 }

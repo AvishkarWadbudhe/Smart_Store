@@ -1,2 +1,7 @@
-package com.smartstore.Repository;public interface RoleRepository {
+package com.smartstore.Repository;
+
+import com.smartstore.Model.Role;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface RoleRepository extends JpaRepository<Role,Integer> {
 }
